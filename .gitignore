@@ -1,3 +1,4 @@
 lireddit-server/dist
 .env
 lireddit-server/node_modules
+lireddit-server/yarn.lock
